@@ -6,3 +6,7 @@ test.cpp
 build/
 bin/
 lib/
+/buildX
+/thirdparty/P0267_RefImpl
+/thirdparty/clang+llvm-6.0.0-x86_64-apple-darwin
+/.vscode

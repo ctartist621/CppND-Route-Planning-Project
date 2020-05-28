@@ -31,6 +31,8 @@ git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-subm
   * This library must be built in a place where CMake `find_package` will be able to find it
 
 ## Compiling and Running
+[Vaddiparthy's instructions](https://medium.com/@ssvaddiparthy/setting-up-the-cppnd-route-planning-project-on-mac-751a6122fb78)
+https://github.com/mylescallan/OpenStreetMaps_C-/blob/master/README.md
 
 ### Compiling
 To compile the project, first, create a `build` directory and change to that directory:
